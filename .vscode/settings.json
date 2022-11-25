@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/dms/Emulator/Multi-Seat/InstanceRunner",
+            "binaryPath": "/home/dms/Emulator/Multi-Seat/InstanceRunner/bin",
+            "binaryArgs": []
+        }
+    ]
+}
